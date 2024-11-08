@@ -1,4 +1,7 @@
 # Dashboard
 This is dashboard for home automation<br>
-chakradhar kalambhe<br>
-harishankar sahu
+1. Harishankar sahu <br> 
+2. Chakradhar kalambhe <br>
+3. Nikhil peshane <br>
+4. Vaishnvi marbate <br>
+5. Achal khobragade <br>
