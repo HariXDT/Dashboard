@@ -5,6 +5,8 @@
         <title>Single toggle</title>
         <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
         <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-database.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-analytics.js"></script>
         <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.4/css/all.css">
 
@@ -26,5 +28,22 @@
             </div>
             
         </div>
+        
+<!-- code for DHT11 Sensor humidity and temperature-->
+        <div class="data-head">DHT Sensor Realtime Readings</div>
+
+	<div class="data-container">
+		<div class="data-item">
+			<h2>Temperature</h2>
+			<p class="value" id="temperature">22 &#8451;</p>
+		</div>
+		<div class="data-item">
+			<h2>Humidity</h2>
+			<p class="value" id="humidity">10%</p>
+		</div>
+
+		
+	</div>
+
     </body>
 </html>
