@@ -5,7 +5,7 @@ var firebaseConfig = {
     projectId: "toggle-button-3d8fe",
     storageBucket: "toggle-button-3d8fe.appspot.com",
     messagingSenderId: "807063547069",
-    appId: "1:807063547069:web:0ca44bccf198b408de1bd4",
+    appId: "888888",
     measurementId: "G-7Q81S5145B"
   };
   // Initialize Firebase
